@@ -1,0 +1,16 @@
+{
+  "/app/applet/contracts/CertificateRegistry.sol": {
+    "jobHash": "solc-0_8_28-412748f71da83212ab831114ed1fc905b70112e2",
+    "isolated": true,
+    "compilerType": "solc",
+    "artifactPaths": [
+      "/app/applet/artifacts/contracts/CertificateRegistry.sol/CertificateRegistry.json"
+    ],
+    "buildInfoPath": "/app/applet/artifacts/build-info/solc-0_8_28-412748f71da83212ab831114ed1fc905b70112e2.json",
+    "buildInfoOutputPath": "/app/applet/artifacts/build-info/solc-0_8_28-412748f71da83212ab831114ed1fc905b70112e2.output.json",
+    "typeFilePath": "/app/applet/artifacts/contracts/CertificateRegistry.sol/artifacts.d.ts",
+    "wasm": false,
+    "artifactsDirectory": "/app/applet/artifacts",
+    "emitsTypeDeclarations": true
+  }
+}

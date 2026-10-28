@@ -1,0 +1,6 @@
+{
+  "name": "CertiChain — Blockchain Academic Certificate Verification",
+  "description": "Decentralized academic certificate issuance, Keccak-256 fingerprint hashing, and on-chain verification system built with Solidity, Hardhat 3, Ethers.js v6, and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
